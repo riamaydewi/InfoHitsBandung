@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">Info Hits Bandung</string>
+    <string name="start">Start Journey</string>
+    <string name="wisata">Wisata</string>
+    <string name="makanan_khas">Jajanan Khas</string>
+    <string name="belanja">Belanja</string>
+    <string name="oleh2">Oleh-Oleh Bandung</string>
+
+
+    <string name="mesjid">Masjid Raya Bandung</string>
+    <string name="content_masjid1">Masjid Raya Bandung adalah salah satu masjid yang lokasinya tepat berada di tengah kota Bandung, Arsitektur masjid ini terlihat sangat khas dan megah. Pengunjung yang datang ke Masjid Raya Bandung ini selalu ramai, baik siang ataupun malam hari. Para pengunjung datang ke tempat ini untuk melaksanakan ibadah shalat 5 waktu atau menghadiri berbagai acara kajian islam dan yang lainnya.</string>
+    <string name="content_masjid2">Tempat ini juga semakin gemar dikunjungi karena berdekatan atau satu lokasi dengan tempat wisata di Bandung yang menjadi favorit warga, yaitu Alun-Alun kota Bandung. Kawasan alun-alun kota bandung sangat menarik perhatian pengunjung dikarenakan pelatarannya dipasang rumput sintesis yang sangat indah.</string>
+    <string name="content_masjid3">Yang tidak kalah serunya adalah, jika anda ingin melihat hamparan kota Bandung yang sangat luas dan indah terlebih di malam hari dengan segala gemerlap lampu-lampu kotanya yang menyala , maka segeralah anda naik ke menara mesjid agung ini. Dengan menggunakan lift yang akan membawa anda dari bawah ke atas puncak menara mesjid setara lantai 19 ini, dengan waktu izin melihat hanya 15 menit /orang, maka nikmatilah pemandangan kota bandung dan sekitarnya, seperti gunung tangkuban perahu sangat terlihat jelas dari sini.</string>
+    <string name="judul_tiket_masjid">Harga tiket masuk menara masjid raya bandung</string>
+    <string name="tiket_masjid">Dewasa : Rp. 3000/orang\nAnak-Anak : Rp. 2000/orang</string>
+    <string name="judul_alamat_masjid">Alamat Masjid Raya Bandung</string>
+    <string name="alamat_masjid">Jalan Asia Afrika, Kota Bandung Jawa Barat Indonesia</string>
+
+    <string name="kawah">Kawah Putih</string>
+    <string name="content_kawah">Kawah Putih adalah sebuah danau yang terbentuk akibat dari letusan Gunung Patuha. Sesuai dengan namanya, tanah yang ada di kawasan ini berwarna putih akibat dari pencampuran unsur belerang. Selain tanahnya yang berwarna putih, air danau kawasan Kawah Putih juga mempunyai warna yang putih kehijauan dan dapat berubah warna sesuai dengan kadar belerang yang terkandung, suhu, dan cuaca.\n\nKawah Putih Ciwidey berada di kawasan pegunungan yang mempunyai ketinggian lebih dari 2.400 meter di atas permukaan laut. Dengan ketinggian tersebut, suhu udara di kawasan Kawah Putih tentu saja dingin dengan suhu 8 derajat Celsius sampai dengan 22 derajat Celsius, oleh karena itu jangan lupa membawa jaket atau memakai pakaian yang tebal. Selain untuk dinikmati keindahannya oleh para wisatawan, Kawah Putih Ciwidey juga sering kali menjadi tempat kegiatan lain, misalnya pengambilan gambar film, melukis, foto pengantin, sampai dengan kegiatan mendaki dan berkuda.</string>
+    <string name="judul_tiket_kawah">Harga tiket masuk kawah putih</string>
+    <string name="tiket_kawah">15.000 Rupiah per orang\n
+                                Parkir atas (mobil): 150.000 Rupiah\n
+                                Parkir atas (motor): 35.000 Rupiah\n
+                                Ontang-anting: 13.000 Rupiah\n
+                                Parkir bawah (mobil): 6.000 Rupiah\n
+                                Parkir bawah (motor): 5.000 Rupiah\n
+                                Parkir bawah (bus): 25.000 Rupiah</string>
+    <string name="judul_alamat_kawah">Alamat Kawah Putih</string>
+    <string name="alamat_kawah">Jl. Raya Soreang Ciwidey, Kabupaten Bandung, Provinsi Jawa Barat - Indonesia 4097. Berada pada Kilo Meter 25 dengan titik koordinat GPS -7.165833, 107.401944.</string>
+    <string name="judul_jam_kawah">Jam Buka Kawah Putih</string>
+    <string name="jam_kawah">Tempat wisata ini buka setiap hari dari jam 7 pagi sampai dengan jam 5 sore.</string>
+
+    <string name="tangkuban">Tangkuban Perahu</string>
+    <string name="content_tangkuban1">Gunung yang merupakan simbol pariwisata Bandung ini tentu saja akan selau diingat dan dikenang seluruh masyarakat Indonesia. Gunung Tangkuban perahu Bandung ini memang memiliki nilai khusus tersendiri sehingga semua orang tahu,dan bagi yang belum tahu justru akan menambah rasa penasaran untuk mengunjungi tempat wisata yang memiliki pemandangan alam yang sangat luar biasa indahnya ini,serta tentunya yang menjadi daya tarik lainnya dari gunung yang dekat dengan kawasan wisata Lembang ini,adalah suhu alam pegunungan yang dingin dan merupakan salah satu gunung yang terbilang masih aktif di indonesia.Tapi meskipun terbilang masih aktif,namun Gunung tangkuban perahu tidaklah berbahaya bagi masyarakat yang hendak melihat dari dekat keindahan gunung ini.? Bagimana pun keindahan serta kisah legenda kontroversialnya yang melekat di gunung yang satu ini,yaitu tentang cerita seorang anak yang bernama Sangkuriang,yang mencintai dan sekaligus ingin menikahi ibunya sendiri yang bernama dayang sumbi.</string>
+    <string name="judul_tiket_tangkuban">Harga tiket masuk tangkuban perahu</string>
+    <string name="tiket_tangkuban">isebutkannya, untuk karcis hari kerja bagi wisatawan nusantara yang awalnya Rp15.0000 menjadi Rp20.000. Untuk wisatawan mancanegara dari Rp100.000 menjadi Rp200.000. Kendaraan roda dua dari Rp7.000 menjadi Rp12.000. Kendaraan roda empat dari Rp15.000 menjadi Rp25.000. Kendaraan roda enam dari Rp60.000 menjadi Rp110.000 dan untuk sepeda dari Rp5.000 menjadi Rp7.000. Sementara untuk tarif masuk tangkuban perahu pada hari libur bagi wisatawan nusantara dari Rp22.500 menjadi Rp30.000. Wisatawan mancanegara dari Rp150.000 menjadi Rp300.000. Kendaraan roa dua dari Rp9.500 menjadi Rp17.000. Kendaraan roda empat dari Rp20.000 menjadi Rp35.000. Kendaraan roda enam dari Rp75.000 menjadi Rp150.000 dan untuk sepeda dari Rp7.000 menjadi Rp10.000.</string>
+    <string name="judul_alamat_tangkuban">Alamat Tangkuban Perahu</string>
+    <string name="alamat_tangkuban">Gn. Tangkuban Parahu Sukajaya, Lembang, Kab. Bandung Bar. 40391</string>
+    <string name="judul_jam_tangkuban">Jam Buka Tangkuban Perahu</string>
+    <string name="jam_tangkuban">Setiap hari, Senin – Minggu, Mulai Pukul 08.00 – 17.00 WIB</string>
+
+    <string name="dusun">Dusun Bambu</string>
+    <string name="content_dusun1">Dusun Bambu Family Leisure Park adalah sebuah kawasan wisata favorit keluarga terutama yang berasal dari warga perkotaan seperti Jakarta yang berlamat di Jalan Kolonel Masturi KM 11, Desa Kertawangi, Cisarua Kabupaten Bandung Barat, Jawa Barat Indonesia.</string>
+    <string name="content_dusun2">Bandung Barat, Jawa Barat Indonesia.
+Dusun Bambu sendiri adalah bisa dikatakan salah satu dari daftar Tempat Wisata di Lembang Bandung bagian Utara. Berada tepat di kaki pegunungan Burangrang, maka sudah pasti keindahan alam yang asri dan masih alami serta berhawa sangat sejuk ini,menjadi daya tarik tersendiri atau nilai jual yang coba ditawarkan Dusun Bambu Family Leisure Park kepada wisatawan yang berkunjung ke sini.
+</string>
+    <string name="content_dusun3">Dusun Bambu Lembang sendiri,meskipun baru,namun kawasan wisata terpadu ini telah dilengkapi dengan banyak fasilitas dan bisa dibilang sebagai tempat wisata di Bandung yang terlengkap.Selain sebagai Tempat Wisata Alam di Lembang bandung yang memang dikenal masih kental memiliki keindahan natural alamnya,Dusun Bambu Lembang pun bisa dibilang sebagai tempat wisata keluarga,kuliner dan belanja di Bandung.</string>
+    <string name="content_dusun4">Di Dusun Bambu Lembang ini anda bisa mendapatkan sekaligus menikmati beragam aneka menu kuliner yang enak dan lezat di 3 Tempat Kuliner di Dusun Bambu yang berbeda seperti Cafe dan Resto Burangrang, Pasar Khatulistiwa serta Restaurant Purbasari.</string>
+    <string name="judul_tiket_dusun">Harga tiket dusun bambu</string>
+    <string name="tiket_dusun">Tiket Masuk Dusun Bambu Family Leisure Park Rp.15.000/orang\n
+                                Tiket Parkir Kendaraan Roda Empat Rp.10.000\n
+                                Tiket Parkir Kendaraan Roda Dua Rp.5.000</string>
+    <string name="judul_alamat_dusun">Alamat Dusun Bambu</string>
+    <string name="alamat_dusun">Alamat Dusun Bambu Family Leisure Park ini adalah berlokasi di Jalan Kolonel Masturi KM 11, Situ Lembang, Cisarua, Kabupaten Bandung Barat, Bandung Jawa Barat Indonesia.</string>
+    <string name="judul_jam_dusun">Jam Buka Dusun Bambu</string>
+    <string name="jam_dusun">Jam operasional Dusun Bambu adalah setiap hari, Senin – Minggu, mulai pukul 08.00 – 21.00 WIB</string>
+
+    <string name="deranch">De Ranch</string>
+    <string name="content_deranch1">De Ranch Lembang adalah salah satu tempat wisata di Bandung yang merupakan sebuah kawasan wisata yang unik serta eksotis yang berlokasi di areal dataran tinggi pegunungan Lembang. Tempat wisata D’Ranch yang selalu menjadi buruan wisatawan yang berlibur ke tanah pasundan ini memang merupakan destinasi wisata favorit dan terpopuler beberapa tahun terakhir.</string>
+    <string name="content_deranch2">De Ranch Lembang menawarkan konsep wisata khas lembang yang sangat unik dan mengesankan,pengunjung ditantang menjelajah jengkal demi jengkal lokasi De Ranch menggunakan Kuda lengkap memakai atribut cowboy seperti topi cowboy, baju cowboy, sepatu cowboy dan lainnya.</string>
+    <string name="judul_tiket_deranch">Harga Tiket Masuk De Ranch</string>
+    <string name="tiket_deranch">Senin Libur\nSelasa – Jum’at : Rp.5.000 ( Plus wellcome drink susu )\nSabtu – Minggu/Libur : Rp.5.000</string>
+    <string name="judul_alamat_deranch">Alamat De Ranch</string>
+    <string name="alamat_deranch">Jln.Maribaya No 17, Lembang Bandung ( Lokasinya 200 meter dari pertigaan pasar Lembang )</string>
+    <string name="judul_jam_deranch">Jam Buka De Ranch</string>
+    <string name="jam_deranch">Senin Libur\nSelasa – Jumat : 09.00 – 17.00 WIB\nSabtu - Minggu/Libur :  08.00 – 18.00 WIB.</string>
+    
+    <string name="seblak">Seblak</string>
+    <string name="content_seblak1">Seblak adalah makanan Indonesia yang bercita rasa gurih dan pedas, yang terbuat dari kerupuk basah yang dimasak dengan sayuran dan sumber protein seperti telur, ayam, boga bahari atau olahan daging sapi, dimasak dengan bumbu tertentu.[1] Seblak adalah makanan khas Bandung, Jawa Barat. Seblak kini menjadi makanan jajanan jalanan yang digemari berbagai kalangan masyarakat terutama di daerah Jawa Barat dan Jabodetabek. Seblak disajikan di rumah makan dan warung, serta dijajakan di gerobak pedagang keliling. Makanan yang bertekstur kenyal ini memiliki rasa yang pedas dan menyegarkan, serta memiliki beberapa variasi, baik rasa maupun bahan tambahan juga kemasan.</string>
+    <string name="judul_jenis_seblak">Jenis Seblak</string>
+    <string name="jenis_seblak">1. Seblak kering (walaupun agak jarang ditemukan), adalak kerupuk pedas mirip dengan basreng\n2. Seblak basah: seblak makaroni, seblak ceker ayam, seblak mie basah, seblak tulang, seblak baso , seblak basreng ( baso goreng ) , seblak batagor , seblak aci , seblak kwetiaw , seblak siomay , seblak snack dll.</string>
+    <string name="content_seblak2">Saat ini seblak sedang meleganda dan hits di kalangan remaja, yaitu Seblak Deu Tjenghar di Bandung dan Seblak Jeletet Murni di Jakartas.</string>
+    <string name="judul_alamat_deu">Alamat Seblak Deu’ Tjenghar</string>
+    <string name="alamat_deu">Jl. Purnawarman, Babakan Ciamis, Sumur Bandung, Kota Bandung, Jawa Barat 40117</string>
+    <string name="judul_alamat_jeletet">Alamat Seblak Jeletet Murni</string>
+    <string name="alamat_jeletet">Jl. Pademangan IV No.5, RT.3/RW.8, Pademangan Tim., Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14410</string>
+
+    <string name="batagor">Batagor</string>
+    <string name="content_batagor1">Batagor (akronim dari bakso tahu goreng) adalah jajanan khas Bandung[1] yang mengadaptasi gaya Tionghoa-Indonesia dan kini sudah dikenal hampir di seluruh wilayah Indonesia.\n\nSecara umum, jajanan ini dibuat dari tahu yang dilembutkan diisi adonan berbahan Ikan tenggiri[2] dan tepung tapioka lalu dibentuk menyerupai bola dengan digoreng dalam minyak panas selama beberapa menit hingga matang. Variasi lainnya yaitu siomay yang digoreng dan dihidangkan dengan batagor ditambah dengan bumbu kacang, kecap manis, sambal, dan air perasan jeruk nipis sebagai pelengkap.</string>
+    <string name="content_batagor2">Batagor Riri memang sudah tidak hanya menjadi favorit kuliner warga bandung atau wisatawan pada umumnya, namun sensasi cita rasanya telah banyak menarik minat banyak kalangan artis ibukota untuk datang ke tempat makan batagor enak di kota bandung ini. Jika anda mau mebuktikan kebenaran informasi saya berikut, silahkan jika anda datang pertama kali ke sana, coba deh, lihat-lihat dulu sebelum memesan batagornya ( Paling ditanya sama pelayannya, mas mau beli apa mau lihat-lihat ?,,heheh), di sana anda kan menjumpai foto-foto artis yang pernah mampir ke tempat jualan batagor yang sangat enak di Bandung ini.</string>
+    <string name="judul_alamat_batagor">Alamat Batagor Riri</string>
+    <string name="alamat_batagor">Jalan Burangrang No 41, lengkong kota Bandung</string>
+
+    <string name="surabi">Surabi</string>
+    <string name="content_surabi1">Serabi merupakan jajanan pasar tradisional yang berasal dari Indonesia. Ada dua jenis serabi:\n1. Serabi manis\nSerabi ini menggunakan kinca (gula merah cair) bahkan sekarang sudah banyak digunakan topping keju, strawberry, dll\n2. Serabi asin\nSerabi ini biasanya bertoping oncom, bahkan sekarang sudah banyak surabi yang bertopping sosis, bakso, serta diolesi dengan saos seperti topping pada pizza\n\n\nSalah satu surabi yang terkenal di Bandung adalah Surabi Enhai.</string>
+    <string name="judul_alamat_surabi">Alamat Surabi Enhai</string>
+    <string name="alamat_surabi">Jl. Setiabudhi, No 186, Setiabudi, bandung</string>
+
+    <string name="cilok">Cilok</string>
+    <string name="content_cilok1">Cilok adalah sebuah makanan khas Jawa Barat yang terbuat dari tapioka yang kenyal dengan tambahan bumbu pelengkap seperti sambal kacang, kecap, dan saus. Cilok bentuknya bulat-bulat seperti bakso, hanya saja berbeda bahan dasarnya. Terdapat telur atau daging cincang di dalamnya, karena terbuat dari bahan dasar tapioka maka cilok terasa kenyal saat dikonsumsi.</string>
+    <string name="content_cilok2">Cilok terdiri dari 2 jenis, yaitu:\n1. Cilok Bumbu Kacang</string>
+    <string name="content_cilok3">2. Cilok Goang</string>
+
+    <string name="tahu">Tahu Gejrot</string>
+    <string name="content_tahu1">Tahu gejrot adalah makanan khas Cirebon, Indonesia. Tahu gejrot terdiri dari tahu yang sudah digoreng kemudian dipotong agak kecil lalu dimakan dengan kuah yang bumbunya cabe, bawang putih, bawang merah, gula. Biasanya disajikan di layah kecil.\n\nTahu gejrot juga merupakan jajanan khas daerah Cirebon yang digemari di kalangan anak-anak dan orang dewasa, karena sensasi rasanya yang khas.\n\nCara memakannya pun unik, yakni dengan satu lidi kecil kemudian tusuk bagian tahu yang telah dipotong-potong itu.</string>
+    
+    <string name="baru">Pasar Baru Trade Center</string>
+    <string name="content_baru">Pasar Baru Trade Center Bandung merupakan salah satu tempat belanja favorit yang terkenal lengkap dan murah di kota Bandung Jawa barat. Bandung memang terkenal dengan pusat fashion dan kuliner sehingga tidak heran jika di pasar ini tersedia berbagai fashion, makanan maupun barang-barang yang beragam, tentunya dengan harga yang terjangkau. Di pasar baru trace center ini kita bisa membeli harga mulai dari mengecer sampai grosiran. Pengunjung Pasar Baru Trade Center ini berasal dari local bandung maupun luar bandung bahkan sampai luar negeri.</string>
+    <string name="judul_lantai">Informasi lantai di pasar baru</string>
+    <string name="lantai">L 7= Area Parkir\nL 6= Bandung Food Court, Game Master, Furniture, Salon\nL 5= Muda Mudi Xenter, Salon Kecantikan, Handphone, DVD\nL 4= Fashion, Sepatu, Aksesoris, Pusat Perlengkapan Haji dan Busana Muslim\nL 3= Fashion, Tas, Perlengkapan Bayi dan Anak, Pusat Pakaian Dalam\nL 2= Bank, ATM, Toko Mas, Tekstil\nL 1= Tekstil, Sprei, Bedcover, Karpet, Sarung\nD 2= Tas, Sepatu dan Sandal, Fashion, Busana Muslim, Pusat Jaket\nD 1= Busana Muslim, Fashion, Tekstil, Aksesoris</string>
+    <string name="judul_alamat_baru">Alamat Pasar Baru Trade Center</string>
+    <string name="alamat_baru">Jalan Otto Iskandardinata No. 70, Bandung</string>
+
+    <string name="cibaduyut">Pasar Cibaduyut</string>
+    <string name="content_cibaduyut1">Cibaduyut adalah suatu kawasan yang masuk ke dalam wilayah kabupaten Bandung Selatan,mempunyai lokasi yang sangat strategis berbatasan dengan pusat kota Bandung seperti hanya beberapa ratus meter dari Terminal Leuwipanjang serta rute jalannya yang dilewati jalur By Pass yang membelah kota Bandung.</string>
+    <string name="content_cibaduyut2">Terkenal karena Kualitas serta model sepatu yang diproduksi ditempat ini Up To Date,dan yang paling Populer dan mampu menjadikannya terkenal ke dunia adalah kemampuan para pengrajin sepatu membuat sepatu secara manual dengan tangan (Hand Made Shoes) sekaligus mengekspornya ke hampir ke 27 negara di dunia,dengan pasar utamanya Amerika serikat yang hampir 46,16 persen.</string>
+    <string name="judul_alamat_cibaduyut">Alamat Pasar Cibaduyut</string>
+    <string name="alamat_cibaduyut">Kawasan wisata perbelanjaan dan juga kuliner ini menempati lokasi sepanjang jalur jalan Cibaduyut Raya.</string>
+
+    <string name="gedebage">Pasar Gedebage</string>
+    <string name="content_gedebage">Gedebage adalah pusat perbelanjaan barang secondhand atau bekas. Anda dapat menemukan berbagai jenis pakaian seperti baju, celana, sepatu, kemeja sampai aksesoris seperti tas kulit asli. Tidak sedikit juga Anda akan berpapasan dengan barang branded asli yang dijual dengan harga sangat miring.</string>
+    <string name="judul_alamat_gedebage">Alamat Pasar Gedebage</string>
+    <string name="alamat_gedebage">Jl. Soekarno Hatta Bandung, Jawa Barat 40212</string>
+
+    <string name="cihampelas">Kawasan Cihampelas</string>
+    <string name="content_cihampelas1">Cihampelas Bandung ini dikenal sebagai tempat pusatnya pakaian berbahan dasar jeans, outlet-outlet, kafe dan juga hotel yang tentu semakin meningkatkan daya tarik dari kawasan wisata Cihampelas ini. Uniknya lagi, di beberapa outlet ini pun dihiasi dengan ornament dari beberapa jenis tokoh kartun seperti spiderman, Superman, Hulk dan masih banyak lagi.</string>
+    <string name="content_cihampelas2">Destinasi wisata terbaru di daerah cihampelas adalah Teras Cihampelas. Teras Cihampelas didesain membawa pejalan kaki agar lebih dekat dengan alam Kota Bandung yang punya hawa sejuk. Pohon-pohon rindang yang melintang di Teras Cihampelas menambah nuansa alami di tengah kesibukan aktivitas perkotaan.</string>
+    <string name="judul_alamat_cihampelas">Alamat Kawasan Cihampelas</string>
+    <string name="alamat_cihampelas">Jalan Cihampelas 160, Bandung, 40131, Jawa Barat</string>
+    
+    <string name="dago">Kawasan Dago</string>
+    <string name="content_dago">Tempat belanja Dago Bandung merupakan pusatnya tempat wisata di Bandung yang pertama dalam kemunculan fashion atau mode. Daerah Dago banyak dikunjungi oleh pengunjung untuk berbelanja. Dago Bandung bukan pada saat ini saja tetapi sejak jaman dahulu kawasan dago menjadi tempat favorit orang-orang belanja. Makanya di kawasan Dago masih banyak bangunan-bangunan Belanda. Apalagi pas liburan, banyak yang datang ke Dago untuk berbelanja di Dago Bandung hanya untuk sekedar berjalan – jalan, hang out bersama kawan.</string>
+
+    <string name="bolen">Pisang Bolen</string>
+    <string name="content_bolen">Pastry memang bukan khas Bandung, namun Pisang Bolen pastry menjadi cemilan khas Bandun yang tersohor karena rasanya yang nikmat dan khas Indonesia. Pisang bolen yang terbuat dari danish pastry yang lembut dan gurih, dipadu dengan berbagai varian rasa di antaranya pisang keju, pisang coklat, peuyeum, nanas, durian dan kacang.\n\nSalah satu tempat yang menyediakan psang bolen adalah Kartika sari.</string>
+    <string name="judul_alamat_bolen">Alamat Kartika Sari</string>
+    <string name="alamat_bolen">Kartikasari Dago\nJl. Ir. H. Djuanda (Dago) No. 85 Bandung\nTlp.(022)2509500</string>
+
+    <string name="gepuk">Gepuk Daging</string>
+    <string name="content_gepuk">Gepuk adalah makanan khas sunda Jawa Barat yang terbuat dari daging sapi,terasa sedikit manis dan gurih. Biasanya gepuk dibuat dengan daging sapi,yang diiris searah dengan serat daging dan direbus setengah mateng, kemudian di pukul pukul hingga agak empuk. Daging yang sudah empuk direndam kedalam bumbu yang dicampur dengan santan.kemudian direbus kembali hingga air santan menyusut.Jika akan disajikan gorenglah gepuk dengan sedikit minyak hingga kecokelatan dan angkat.Gepuk akan lebih enak di santap dengan nasi hangat dan sambel yang kami sediakan.\n\nSalah satu toko favorit Gepuk di Bandung adalah Gepuk Ny. Ong karena gepuk tersebut memiliki berbagam macam rasa, seperti Beef Original, Beef Spicy, Beef Salty, Beef Less Sugar, Chicken Original, dan Chicken Spicy</string>
+    <string name="judul_alamat_gepuk">Alamat Gepuk Ny. Ong</string>
+    <string name="alamat_gepuk">Dr. Djundjunan 155E Ph (022) 6020569\nPasirkaliki 96 Ph (022) 4221458\nSetiabudhi 148 Ph (022) 76161789\nBuah Batu 161C Ph (002) 70536989</string>
+
+    <string name="borondong">Borondong</string>
+    <string name="content_borondong1">Borondong adalah makanan khas tradisional Sunda, terbuat dari beras ketan atau jagung yang disangan dijadikan pop corn terlebih dahulu. Setelah menjadi pop corn dibersihkan terlebih dahulu cangkangnya, kemudian dicampurkan dengan kinca gula merah atau kinca gula pasir dibentuk bulat-bulat atau persegi.</string>
+    <string name="content_borondong2">Ada dua jenis borondong, yaitu:\n1. Borondong Garing\nBorondong garing dibuat dengan mencampur kinca dengan sangan jagung/ beras ketan dan dibentuk\n2. Borondong Enten\nBorondong enten dibuat dengan cara membuat enten terlebih dahulu dari beras ketan.</string>
+
+    <string name="peuyeum">Peuyeum</string>
+    <string name="content_peuyeum1">Peuyeum Bandung atau dalam bahasa Indonesianya disebut dengan tape adalah salah satu makanan khas tatar Pasundan. Peuyeum berdasarkan bahan dasarnya dibedakan menjadi dua jenis. Yang pertama terbuat dari singkong. Peuyeum ini yang sering dijumpai di pusat oleh – oleh. Kemudian yang kedua yaitu peuyeum yang dibuat dari beras ketan yang telah di fermentasikan</string>
+    <string name="content_peuyeum2">Peuyeum biasanya dijual dengan cara digantungkan di langit-langit depan warung sederhana di pinggiran jalan. Anda juga dapat menemukan penjual peuyeum yang berkeliling. Namun sekarang penjual peuyeum keliling sudah jarang ditemui.</string>
+    
+    <string name="cilembu">Ubi Cilembu</string>
+    <string name="content_cilembu1">Ubi Cilembu adalah kultivar ubi jalar merupakan ras lokal asal Kecamatan Pamulihan, Sumedang, Jawa Barat. Ubi jalar ini populer di kalangan konsumen semenjak tahun 1990-an.</string>
+    <string name="content_cilembu2">Ubi Cilembu lebih istimewa daripada umbi biasanya karena umbi ini bila dioven akan mengeluarkan sejenis cairan lengket gula madu yang manis rasanya. Karena itu, umbi Cilembu disebut juga dengan umbi si madu. Bila umbi pada umumnya juga manis, rasa manis umbi Cilembu ini lebih manis dan lengket dengan gula madu. Rasa manis ini membuat tenaga ekstra bagi orang yang mengkonsumsinya.</string>
+
+    <string name="info">Info Hits Bandung adalah sebuah aplikasi android yang menyediakan beberapa referensi, yaitu:\n1. Tempat Wisata\n2. Jajanan Khas\n3. Tempat Belanja\n4. Oleh-Oleh Khas</string>
+    <string name="info2">Created by : Ria May Dewi</string>
+</resources>

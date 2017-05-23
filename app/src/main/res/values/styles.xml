@@ -1,0 +1,84 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="menuIntro">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:background">#3F51B5</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="menuHorizontalTransparan">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="menuHorizontalBlue">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">#E8F5E9</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:textColor">#3F51B5</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="menuImageFit">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">150dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:paddingBottom">16dp</item>
+    </style>
+
+    <style name="menuText">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">150dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:textColor">#006064</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="imageContent">
+        <item name="android:layout_width">200dp</item>
+        <item name="android:layout_height">150dp</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="textContent">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="subJudulMenuContent">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">#FF3D00</item>
+        <item name="android:paddingTop">16dp</item>
+    </style>
+</resources>

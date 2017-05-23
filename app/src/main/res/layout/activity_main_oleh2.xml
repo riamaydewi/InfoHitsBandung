@@ -1,0 +1,139 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.infohitsbandung.MainActivityOleh2"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:paddingLeft="16dp"
+    android:background="#E0F7FA">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/linearLayout">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/bolen"
+                android:orientation="horizontal"
+                android:background="#FCE4EC"
+                android:layout_marginBottom="16dp">
+
+                <ImageView
+                    style="@style/menuImageFit"
+                    android:src="@drawable/psang_bolen1" />
+
+                <TextView
+                    style="@style/menuText"
+                    android:text="@string/bolen" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:id="@+id/gepuk"
+                android:background="#FCE4EC"
+                android:layout_marginBottom="16dp">
+
+                <ImageView
+                    style="@style/menuImageFit"
+                    android:src="@drawable/gepuk1" />
+
+                <TextView
+                    style="@style/menuText"
+                    android:text="@string/gepuk" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/borondong"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="#FCE4EC"
+                android:layout_marginBottom="16dp">
+
+                <ImageView
+                    style="@style/menuImageFit"
+                    android:src="@drawable/borondong1" />
+
+                <TextView
+                    style="@style/menuText"
+                    android:text="@string/borondong" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/peuyeum"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="#FCE4EC"
+                android:layout_marginBottom="16dp">
+
+                <ImageView
+                    style="@style/menuImageFit"
+                    android:src="@drawable/peuyeum1" />
+
+                <TextView
+                    style="@style/menuText"
+                    android:text="@string/peuyeum" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/cilembu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="#FCE4EC"
+                android:layout_marginBottom="16dp">
+
+                <ImageView
+                    style="@style/menuImageFit"
+                    android:src="@drawable/cilembu1" />
+
+                <TextView
+                    style="@style/menuText"
+                    android:text="@string/cilembu" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout">
+
+        <ImageButton
+            style="@style/menuHorizontalTransparan"
+            android:src="@drawable/home"
+            android:onClick="Home" />
+
+        <ImageButton
+            style="@style/menuHorizontalTransparan"
+            android:src="@drawable/about"
+            android:onClick="Info"/>
+
+        <ImageButton
+            style="@style/menuHorizontalTransparan"
+            android:src="@drawable/exit"
+            android:onClick="Exit" />
+
+    </LinearLayout>
+
+</RelativeLayout>

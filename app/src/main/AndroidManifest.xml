@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.infohitsbandung">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon_bandung"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivityIntro"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".MainActivityHome"
+            android:label="@string/app_name"/>
+        <activity android:name=".MainActivityWisata"
+            android:label="@string/wisata"/>
+        <activity android:name=".MainActivityJajanan"
+            android:label="Jajanan"/>
+        <activity android:name=".MainActivityBelanja"
+            android:label="Tempat Belanja"/>
+        <activity android:name=".MainActivityOleh2"
+            android:label="Oleh-Oleh"/>
+
+        <activity android:name=".MainActivityMasjid"
+            android:label="@string/mesjid"/>
+        <activity android:name=".MainActivityKawah"
+            android:label="@string/kawah"/>
+        <activity android:name=".MainActivityTangkuban"
+            android:label="@string/tangkuban"/>
+        <activity android:name=".MainActivityDusun"
+            android:label="@string/dusun"/>
+        <activity android:name=".MainActivityDeranch"
+            android:label="@string/deranch"/>
+
+        <activity android:name=".MainActivitySeblak"
+            android:label="@string/seblak"/>
+        <activity android:name=".MainActivityBatagor"
+            android:label="@string/batagor"/>
+        <activity android:name=".MainActivitySurabi"
+            android:label="@string/surabi"/>
+        <activity android:name=".MainActivityCilok"
+            android:label="@string/cilok"/>
+        <activity android:name=".MainActivityTahu"
+            android:label="@string/tahu"/>
+
+        <activity android:name=".MainActivityPasarBaru"
+            android:label="@string/baru"/>
+        <activity android:name=".MainActivityCibaduyut"
+            android:label="@string/cibaduyut"/>
+        <activity android:name=".MainActivityGedebage"
+            android:label="@string/gedebage"/>
+        <activity android:name=".MainActivityCihampelas"
+            android:label="@string/cihampelas"/>
+        <activity android:name=".MainActivityDago"
+            android:label="@string/dago"/>
+
+        <activity android:name=".MainActivityBolen"
+            android:label="@string/bolen"/>
+        <activity android:name=".MainActivityGepuk"
+            android:label="@string/gepuk"/>
+        <activity android:name=".MainActivityBorondong"
+            android:label="@string/borondong"/>
+        <activity android:name=".MainActivityPeuyeum"
+            android:label="@string/peuyeum"/>
+        <activity android:name=".MainActivityCilembu"
+            android:label="@string/cilembu"/>
+
+        <activity android:name=".MainActivityInfo"
+            android:label="@string/app_name"/>
+    </application>
+
+</manifest>

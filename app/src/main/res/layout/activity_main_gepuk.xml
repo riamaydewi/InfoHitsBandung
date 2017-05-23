@@ -1,0 +1,74 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:paddingLeft="16dp"
+    tools:context="com.example.android.infohitsbandung.MainActivityGepuk"
+    android:background="#FCE4EC">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/linearLayout">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                style="@style/imageContent"
+                android:src="@drawable/gepuk1" />
+
+            <TextView
+                style="@style/textContent"
+                android:text="@string/content_gepuk" />
+
+            <ImageView
+                style="@style/imageContent"
+                android:src="@drawable/gepuk2" />
+
+            <ImageView
+                style="@style/imageContent"
+                android:src="@drawable/gepuk3" />
+
+            <TextView
+                style="@style/subJudulMenuContent"
+                android:text="@string/judul_alamat_gepuk" />
+
+            <TextView
+                style="@style/textContent"
+                android:text="@string/alamat_gepuk" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+        <ImageButton
+            style="@style/menuHorizontalTransparan"
+            android:onClick="Home"
+            android:src="@drawable/home" />
+
+        <ImageButton
+            style="@style/menuHorizontalTransparan"
+            android:src="@drawable/about"
+            android:onClick="Info"/>
+
+        <ImageButton
+            style="@style/menuHorizontalTransparan"
+            android:onClick="Exit"
+            android:src="@drawable/exit" />
+
+    </LinearLayout>
+
+</RelativeLayout>
